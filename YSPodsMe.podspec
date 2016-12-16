@@ -10,10 +10,10 @@ Pod::Spec.new do |s|
   测试：自己使用的pod库,不上传至pod trunk
                    DESC
 
-  s.homepage     = "https://github.com/YunsChou/YSTestPods"
+  s.homepage     = "https://github.com/YunsChou/YSTestPodsMe"
   s.license      = "MIT"
   s.author       = { "YunsChou" => "264775449@qq.com" }
-  s.source       = { :git => "https://github.com/YunsChou/YSTestPods.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/YunsChou/YSTestPodsMe.git", :tag => "#{s.version}" }
   s.source_files = "YSPodsMe/*"
 
   s.platform     = :ios, '7.0'
