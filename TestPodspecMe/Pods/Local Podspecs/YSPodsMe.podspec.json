@@ -1,0 +1,20 @@
+{
+  "name": "YSPodsMe",
+  "version": "0.0.1",
+  "summary": "A Test of YSPodsMe.",
+  "description": "测试：自己使用的pod库,不上传至pod trunk",
+  "homepage": "https://github.com/YunsChou/YSTestPodsMe",
+  "license": "MIT",
+  "authors": {
+    "YunsChou": "264775449@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/YunsChou/YSTestPodsMe.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "YSPodsMe/*",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true
+}

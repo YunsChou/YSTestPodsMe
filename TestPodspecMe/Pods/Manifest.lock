@@ -1,0 +1,21 @@
+PODS:
+  - YSPodsMe (0.0.1)
+
+DEPENDENCIES:
+  - YSPodsMe (from `https://github.com/YunsChou/YSTestPodsMe.git`)
+
+EXTERNAL SOURCES:
+  YSPodsMe:
+    :git: https://github.com/YunsChou/YSTestPodsMe.git
+
+CHECKOUT OPTIONS:
+  YSPodsMe:
+    :commit: 6377c7b093bafd308ad18d8ba54e0bdfef56ad94
+    :git: https://github.com/YunsChou/YSTestPodsMe.git
+
+SPEC CHECKSUMS:
+  YSPodsMe: f74688f8520583f98f526b5e63bde7a04c882ccb
+
+PODFILE CHECKSUM: dd459e263df83ebaa24dd52bd6918e57a8272f45
+
+COCOAPODS: 1.1.1

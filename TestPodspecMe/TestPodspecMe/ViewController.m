@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-//#import "NSObject+TestPod.h"
+#import "NSObject+TestPod.h"
 
 @interface ViewController ()
 
@@ -19,7 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-//    [NSObject testPodFunc];
+    [NSObject testPodFunc];
 }
 
 
